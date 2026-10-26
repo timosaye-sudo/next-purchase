@@ -1,0 +1,4 @@
+polars>=1.0
+numpy>=1.26
+scipy>=1.11
+lightgbm>=4.0

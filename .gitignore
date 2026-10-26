@@ -1,0 +1,18 @@
+# données du hackathon, sous licence
+data/raw/*
+!data/raw/.gitkeep
+*.csv
+*.parquet
+
+modele.txt
+soumission.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
+.DS_Store
